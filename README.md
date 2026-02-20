@@ -12,9 +12,9 @@
 
 <!-- Profile Views & Social Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adhampx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/adhampx?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <a href="https://www.linkedin.com/in/adham-rashed">
+  <img src="https://komarev.com/ghpvc/?username=adhamcybersec&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/adhamcybersec?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  <a href="https://linkedin.com/in/adhamcysec">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -126,22 +126,22 @@ currently:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adhampx&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhampx&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adhamcybersec&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhamcybersec&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhampx&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhamcybersec&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhampx&custom_title=Contribution%20Graph&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area_color=6AD3F7&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhamcybersec&custom_title=Contribution%20Graph&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area_color=6AD3F7&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -150,7 +150,7 @@ currently:
 ## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adhampx&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adhamcybersec&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -182,8 +182,8 @@ currently:
 <td width="50%">
 <h3 align="center">PQC-Secure-ChatApp</h3>
 <div align="center">
-  <a href="https://github.com/adhampx/PQC-Secure-ChatApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhampx&repo=PQC-Secure-ChatApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7" />
+  <a href="https://github.com/adhamcybersec/PQC-Secure-ChatApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhamcybersec&repo=PQC-Secure-ChatApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7" />
   </a>
 </div>
 </td>
@@ -192,11 +192,11 @@ currently:
 </div>
 
 <div align="center">
-  <a href="https://github.com/adhampx/scientific_text_humanizer">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adhampx&repo=scientific_text_humanizer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7" />
+  <a href="https://github.com/adhamcybersec/scientific_text_humanizer">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adhamcybersec&repo=scientific_text_humanizer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7" />
   </a>
-  <a href="https://github.com/adhampx/Optimization-Research">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adhampx&repo=Optimization-Research&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7" />
+  <a href="https://github.com/adhamcybersec/Optimization-Research">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adhamcybersec&repo=Optimization-Research&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7" />
   </a>
 </div>
 
@@ -220,9 +220,9 @@ currently:
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhampx/adhampx/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhampx/adhampx/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/adhampx/adhampx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhamcybersec/adhamcybersec/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhamcybersec/adhamcybersec/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/adhamcybersec/adhamcybersec/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -232,13 +232,13 @@ currently:
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
 <div align="center">
-  <a href="mailto:adhampx@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"/>
+  <a href="mailto:adham+github@adhampx.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/adham-rashed">
+  <a href="https://linkedin.com/in/adhamcysec">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/adhampx">
+  <a href="https://github.com/adhamcybersec">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -259,7 +259,7 @@ currently:
 
 <!-- Hidden: Last Updated -->
 <!--
-  Last Updated: 2024
+  Last Updated: 2026
   Tools Used:
   - github-readme-stats (anuraghazra)
   - github-readme-streak-stats (DenverCoder1)
