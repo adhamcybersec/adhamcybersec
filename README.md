@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adham%20Rashed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Researcher%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adham%20Rashed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Researcher%20%7C%20Database%20Security%20Specialist&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=MSc+Cybersecurity+%7C+Database+Security+Specialist;Building+Secure+%26+Intelligent+Systems;From+Palestine+%F0%9F%87%B5%F0%9F%87%B8+%7C+Based+in+Turkey+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=MSc+Cybersecurity+%7C+Database+Security+Specialist;Zero-Trust+%7C+AI+Anomaly+Detection+%7C+Blockchain+Audit;From+Palestine+%F0%9F%87%B5%F0%9F%87%B8+%7C+Based+in+Turkey+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,8 +14,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adhamcybersec&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/adhamcybersec?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <a href="https://linkedin.com/in/adhamcysec">
+  <a href="https://linkedin.com/in/adhamrashed">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://adhampx.com">
+    <img src="https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
   </a>
 </div>
 
@@ -26,29 +29,32 @@
 
 ```yaml
 name: Adham Rashed
-location: Turkey
+location: Istanbul, Turkey
 origin: Palestine
+portfolio: adhampx.com
 
 education:
   current: MSc Cybersecurity @ Istinye University
   focus: Database Security
-  previous: BSc Applied Computing (Distinction)
+  previous: BSc Applied Computing @ Palestine Technical University - Kadoorie (Distinction)
 
 roles:
   - Cybersecurity Researcher
-  - Full-Stack Developer
-  - Founder @ TherapyIN
+  - Database Design & Integration Specialist (TÜBİTAK)
+  - AI/Automation Intern @ Ember Lifestyle LLC
 
-research_interests:
-  - AI-Enhanced Threat Intelligence
-  - Blockchain for Data Integrity
-  - Database Security & Access Control
-  - Identity & Access Management (IAM)
+research:
+  thesis: "Zero-Trust Security Framework with AI Anomaly Detection & Blockchain Audit Trails for DAQ Systems"
+  pillars:
+    - Zero-Trust Architecture
+    - AI Anomaly Detection (LSTM-Autoencoder + Random Forest)
+    - Blockchain Audit Trails (Hyperledger Fabric)
 
-currently:
-  building: Phoenix - Multi-Agent AI Desktop Application
-  researching: AI & Blockchain in Cybersecurity
-  learning: Advanced Cloud Security & MLOps
+affiliations:
+  - Istinye University
+  - TÜBİTAK
+  - CERN ATLAS Collaboration
+  - Ember Lifestyle LLC
 ```
 
 <br/>
@@ -60,34 +66,34 @@ currently:
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,bash,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,sql&theme=dark" />
 </p>
 
 ### Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs&theme=dark" />
 </p>
 
-### Frontend & Mobile
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,electron&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 </p>
 
-### Databases & Cloud
+### Databases & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,docker,kubernetes&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker&theme=dark" />
 </p>
 
 ### Security & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,cloudflare,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,nginx&theme=dark" />
 </p>
 
-### AI & Data Science
+### AI & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Qdrant-FF6B6B?style=for-the-badge&logo=qdrant&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logoColor=white" height="48"/>
 </p>
 
 </div>
@@ -95,26 +101,30 @@ currently:
 <br/>
 
 <!-- Cybersecurity Expertise -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Cybersecurity Expertise
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Cybersecurity Focus Areas
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="150">
-<img src="https://img.shields.io/badge/Database-Security-red?style=for-the-badge" /><br/>
-<sub><b>Encryption, Access Control, Auditing</b></sub>
+<img src="https://img.shields.io/badge/Database-Security-00f0ff?style=for-the-badge" /><br/>
+<sub><b>40% Focus</b></sub><br/>
+<sub>Encryption, Access Control, Audit Logging</sub>
 </td>
 <td align="center" width="150">
-<img src="https://img.shields.io/badge/IAM-SailPoint-orange?style=for-the-badge" /><br/>
-<sub><b>IdentityIQ, Access Governance</b></sub>
+<img src="https://img.shields.io/badge/IAM-SailPoint-3b82f6?style=for-the-badge" /><br/>
+<sub><b>25% Focus</b></sub><br/>
+<sub>SailPoint IIQ, AWS IAM, Azure AD</sub>
 </td>
 <td align="center" width="150">
-<img src="https://img.shields.io/badge/Threat-Intelligence-blue?style=for-the-badge" /><br/>
-<sub><b>AI-Enhanced Detection</b></sub>
+<img src="https://img.shields.io/badge/AI+Cyber-Detection-22c55e?style=for-the-badge" /><br/>
+<sub><b>15% Focus</b></sub><br/>
+<sub>LSTM, Random Forest, Anomaly Detection</sub>
 </td>
 <td align="center" width="150">
-<img src="https://img.shields.io/badge/Penetration-Testing-purple?style=for-the-badge" /><br/>
-<sub><b>Vulnerability Assessment</b></sub>
+<img src="https://img.shields.io/badge/Blockchain-Security-f59e0b?style=for-the-badge" /><br/>
+<sub><b>20% Focus</b></sub><br/>
+<sub>Hyperledger Fabric, Audit Trails</sub>
 </td>
 </tr>
 </table>
@@ -132,14 +142,12 @@ currently:
 
 <br/>
 
-<!-- Streak Stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhamcybersec&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhamcybersec&custom_title=Contribution%20Graph&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area_color=6AD3F7&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
@@ -158,25 +166,63 @@ currently:
 <!-- Featured Projects -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
 
-<!-- Phoenix - Custom Card (Private Repo) -->
 <div align="center">
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Phoenix</h3>
+<h3 align="center">AccessAudit</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Private-Repository-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Operational-22c55e?style=flat-square" />
 </p>
 <p align="center">
-  <strong>Multi-Agent AI Desktop Application</strong><br/>
-  Orchestrate AI agent councils, manage knowledge bases, and integrate external services
+  <strong>IAM Access Review Platform</strong><br/>
+  Multi-provider IAM auditing with ML anomaly detection, OPA/Rego policy engine, compliance reporting
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-39-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-FF6B6B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+</p>
+</td>
+<td width="50%">
+<h3 align="center">DAQ-DCS</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Operational-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/CERN-ATLAS-f59e0b?style=flat-square" />
+</p>
+<p align="center">
+  <strong>IoT Data Acquisition & Detector Control</strong><br/>
+  10 Docker services for RPC detector testing at Istinye University, aligned with CERN ATLAS
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" />
+</p>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Phoenix Workspace</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In_Development-f59e0b?style=flat-square" />
+</p>
+<p align="center">
+  <strong>AI-Augmented Knowledge Management</strong><br/>
+  Living RAG, hybrid search, OCR pipeline, Claude Code MCP integration
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 </td>
 <td width="50%">
@@ -209,9 +255,10 @@ currently:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Phoenix** | Multi-agent AI desktop app for orchestrating AI councils | React, Electron, FastAPI, Qdrant |
-| **TherapyIN** | Management platform for therapists and clinics | Full-Stack Development |
-| **MSc Thesis** | AI & Blockchain for Cybersecurity Solutions | Research & Development |
+| **MSc Thesis** | Zero-Trust + AI Anomaly Detection + Blockchain Audit Trails for DAQ Systems | LSTM, Random Forest, Hyperledger Fabric |
+| **AccessAudit** | IAM access review automation with ML anomaly detection | Python, FastAPI, scikit-learn, OPA/Rego |
+| **DAQ-DCS** | IoT data acquisition for CERN ATLAS-aligned detector testing | Docker, MQTT, Grafana, Node-RED |
+| **Ember Internship** | AI workflow automation & systems integration for luxury travel | RAG, AI Agents, Integration Architecture |
 
 </div>
 
@@ -232,10 +279,13 @@ currently:
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
 <div align="center">
-  <a href="mailto:adham+github@adhampx.com">
+  <a href="https://adhampx.com">
+    <img src="https://img.shields.io/badge/Portfolio-adhampx.com-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+  </a>
+  <a href="mailto:adham@adhampx.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/adhamcysec">
+  <a href="https://linkedin.com/in/adhamrashed">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/adhamcybersec">
@@ -256,16 +306,3 @@ currently:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
-
-<!-- Hidden: Last Updated -->
-<!--
-  Last Updated: 2026
-  Tools Used:
-  - github-readme-stats (anuraghazra)
-  - github-readme-streak-stats (DenverCoder1)
-  - github-profile-trophy (ryo-ma)
-  - skill-icons (tandpfun)
-  - capsule-render (kyechan99)
-  - readme-typing-svg (DenverCoder1)
-  - github-readme-activity-graph (ashutosh00710)
--->
