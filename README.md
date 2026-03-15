@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adhamcybersec&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/adhamcybersec?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <a href="https://linkedin.com/in/adhamrashed">
+  <a href="https://linkedin.com/in/adhamcysec">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://adhampx.com">
